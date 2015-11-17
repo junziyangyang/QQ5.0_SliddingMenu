@@ -1,0 +1,12 @@
+<com.itheima.qq.ui.view.SlidMenuLayout
+    android:id="@+id/smlRoot"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ >
+  	    <include layout="@layout/layout_menu"/>
+  	    <include layout="@layout/layout_main"/>
+  	    
+</com.itheima.qq.ui.view.SlidMenuLayout>
